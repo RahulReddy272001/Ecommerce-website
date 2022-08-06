@@ -1,6 +1,6 @@
 # Ecommerce-website
 
-# Live Link -: https://rahulreddyv.herokuapp.com/
+# Tutorial Video :- https://www.loom.com/share/4892d1838a1e417386cd873011933580
 
 #TechStack used- HTML,CSS,JAVASCRIPT,REACTJS AND REDUX,NODEJS,EXPRESSJS,JSON-WEB-TOKEN,STRIPE,MONGODB AND MONGOOSE
 #ScreenShots->
